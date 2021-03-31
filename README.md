@@ -1,5 +1,7 @@
-# SimpleCNN_Lib
+# SimpleCNN_Lib  // It is still unfinished.
 
+## Introduction  
+SimpleCNN is a CNN test library for C++.
 ## How To Use
 
 Header file
