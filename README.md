@@ -8,7 +8,7 @@ Header file
 ```
 
 Example    //  It is still unfinished.
-```
+```cpp
 int main(void) {
 	cnn::CNN cnn;
 	cnn.setStructure(convolution,activation,pooling,padding,convolution,activation,pooling,fullyconnected,activation);
